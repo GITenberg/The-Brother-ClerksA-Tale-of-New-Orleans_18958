@@ -1,0 +1,32 @@
+_repo: The-Brother-ClerksA-Tale-of-New-Orleans_18958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Townsend, Mary Ashley
+    aliases:
+    - Townsend, Mary Ashley Van Voorhis
+    - Xariffa
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '8367'
+    url: http://www.gutenberg.org/2009/agents/8367
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Ashley_Townsend
+description: ''
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans (La.) -- Fiction'
+- !lcc 'PS'
+title: 'The Brother Clerks
+
+  A Tale of New-Orleans'
+url: http://www.gutenberg.org/ebooks/18958
